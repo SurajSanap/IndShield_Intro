@@ -13,6 +13,9 @@
 * **Restricted Zone Enforcement:** Utilizes live CCTV feeds and object detection to identify unauthorized access to restricted areas, facilitating timely intervention and enforcing safety protocols.
 * **Fire and Safety Gear Detection:** Employs machine learning algorithms to identify safety gear worn by personnel and detect potential fire risks in real-time, upholding the highest standards of safety and compliance.
 
+![IndSieldArc drawio](https://github.com/user-attachments/assets/8c1e781b-ecaa-4fec-ade4-9706bfcc849a)
+
+
 **Benefits:**
 
 * **Early detection of potential issues** minimizes downtime and prevents costly emergency repairs.
