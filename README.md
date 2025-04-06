@@ -1,5 +1,9 @@
 
-#![ChatGPT Image Apr 6, 2025, 11_06_20 PM](https://github.com/user-attachments/assets/76a41b43-889f-4721-ab85-a96b84aff9ac)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/714f3a9e-3e2a-406b-97ff-68c6aa58a074" alt="Logo College" width="150">
+</p>
+
 # IndShield: A Cutting-Edge Web App for Enhanced Industrial Safety
 
 **IndShield** is a web application designed to revolutionize industrial safety protocols by leveraging advanced technologies. It empowers organizations to create a safer and more secure work environment for personnel and equipment.
